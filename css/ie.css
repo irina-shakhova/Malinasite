@@ -1,0 +1,79 @@
+.clearfix,
+.header-inner,
+.bottom-inner,
+.gallery-wrp {
+    *zoom: 1;
+}
+
+.main-menu li {
+    *zoom: 1;
+    *display: inline;
+    *margin-right: 4px;
+}
+
+html, body {
+    font-size: 14px;
+}
+
+.slide1-title {
+    font-size: 80px;
+}
+
+.slide2-title {
+    font-size: 46px;
+}
+
+.content h1 {
+    font-size: 24px;
+}
+
+.content h2 {
+    font-size: 14px;
+}
+
+.content h3 {
+    font-size: 13pxm;
+}
+
+.content h4 {
+    font-size: 12px;
+}
+
+.content h5 {
+    font-size: 11px;
+}
+
+.content h6 {
+    font-size: 10px;
+}
+
+h3.bottom-title {
+    font-size: 24px;
+}
+
+.block-about {
+    font-size: 12px;
+}
+
+.gal-item .gal-item-text {
+    background: transparent url(../images/gal-item-ie.png) left top repeat;
+}
+
+.slides-wrp {
+    background: url(../images/slider-bg.jpg) left top repeat-x;
+}
+
+.gallery-wrp {
+    width: auto;
+    font-size: 0;
+    text-align: center;
+}
+
+.gal-item {
+    display: inline-block;
+    *display: inline;
+    *zoom: 1;
+    float: none;
+    font-size: 14px;
+    text-align: left;
+}
